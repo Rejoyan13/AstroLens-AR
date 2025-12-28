@@ -85,7 +85,7 @@ AstroLens AR was developed to:
 
 ## 👨‍💻 Developer
 
-**Emon Talukder**  
+**Md Rejoyan Sakib**  
 B.Sc. in Computer Science & Engineering  
 Green University of Bangladesh
 
